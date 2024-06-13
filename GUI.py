@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog
 from functools import partial
 from PIL import Image, ImageTk
-from file import face_recognition
+from FaceRecognition import face_recognition
 
 def select_file_path(entry):
     file_path = filedialog.askopenfilename()
