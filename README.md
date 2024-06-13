@@ -1,4 +1,4 @@
-### Face Recognition using eigen bases README
+### Face Recognition using eigen bases 
 
 #### Overview
 This Python script performs face recognition using Principal Component Analysis (PCA) on a dataset of grayscale images. It utilizes eigenfaces to project images into a reduced-dimensional space and compares them using cosine similarity to recognize faces.
